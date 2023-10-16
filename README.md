@@ -12,9 +12,6 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagohenrique&layout=compact&hide_border=false&title_color=149FBB&text_color=08C4D8&bg_color=12171E" />
 </div>
 
-<br>
-<br>
-
 ## Redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-12171E?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/henrique-santiago-pires/)
 
