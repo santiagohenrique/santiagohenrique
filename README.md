@@ -3,8 +3,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?size=36&center=true&width=1000&lines=Olá,+seja+bem-vindo!)
 
 
-
-- 💻 Estudante de **Análise e Desenvolvimento de Sistemas** 
+- Henrique Santiago Pires, 20.
+- Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 <br>
 
