@@ -16,7 +16,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-12171E?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/henrique-santiago-pires/)
 
 
-## Tecnologias que já usei
+## Tecnologias que uso
 <div>
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
